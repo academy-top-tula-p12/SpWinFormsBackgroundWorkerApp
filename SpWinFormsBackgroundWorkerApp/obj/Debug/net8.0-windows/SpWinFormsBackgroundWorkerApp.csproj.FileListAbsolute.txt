@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\SpWinFormsBackgroundWorkerApp\SpWinFormsBackgroundWorkerApp\bin\Debug\net8.0-windows\SpWinFormsBackgroundWorkerApp.exe
+C:\Users\admin\source\repos\SpWinFormsBackgroundWorkerApp\SpWinFormsBackgroundWorkerApp\bin\Debug\net8.0-windows\SpWinFormsBackgroundWorkerApp.deps.json
+C:\Users\admin\source\repos\SpWinFormsBackgroundWorkerApp\SpWinFormsBackgroundWorkerApp\bin\Debug\net8.0-windows\SpWinFormsBackgroundWorkerApp.runtimeconfig.json
+C:\Users\admin\source\repos\SpWinFormsBackgroundWorkerApp\SpWinFormsBackgroundWorkerApp\bin\Debug\net8.0-windows\SpWinFormsBackgroundWorkerApp.dll
+C:\Users\admin\source\repos\SpWinFormsBackgroundWorkerApp\SpWinFormsBackgroundWorkerApp\bin\Debug\net8.0-windows\SpWinFormsBackgroundWorkerApp.pdb
+C:\Users\admin\source\repos\SpWinFormsBackgroundWorkerApp\SpWinFormsBackgroundWorkerApp\obj\Debug\net8.0-windows\SpWinFormsBackgroundWorkerApp.Form1.resources
+C:\Users\admin\source\repos\SpWinFormsBackgroundWorkerApp\SpWinFormsBackgroundWorkerApp\obj\Debug\net8.0-windows\SpWinFormsBackgroundWorkerApp.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\SpWinFormsBackgroundWorkerApp\SpWinFormsBackgroundWorkerApp\obj\Debug\net8.0-windows\SpWinFormsBackgroundWorkerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\SpWinFormsBackgroundWorkerApp\SpWinFormsBackgroundWorkerApp\obj\Debug\net8.0-windows\SpWinFormsBackgroundWorkerApp.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\SpWinFormsBackgroundWorkerApp\SpWinFormsBackgroundWorkerApp\obj\Debug\net8.0-windows\SpWinFormsBackgroundWorkerApp.AssemblyInfo.cs
+C:\Users\admin\source\repos\SpWinFormsBackgroundWorkerApp\SpWinFormsBackgroundWorkerApp\obj\Debug\net8.0-windows\SpWinFormsBackgroundWorkerApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SpWinFormsBackgroundWorkerApp\SpWinFormsBackgroundWorkerApp\obj\Debug\net8.0-windows\SpWinFormsBackgroundWorkerApp.dll
+C:\Users\admin\source\repos\SpWinFormsBackgroundWorkerApp\SpWinFormsBackgroundWorkerApp\obj\Debug\net8.0-windows\refint\SpWinFormsBackgroundWorkerApp.dll
+C:\Users\admin\source\repos\SpWinFormsBackgroundWorkerApp\SpWinFormsBackgroundWorkerApp\obj\Debug\net8.0-windows\SpWinFormsBackgroundWorkerApp.pdb
+C:\Users\admin\source\repos\SpWinFormsBackgroundWorkerApp\SpWinFormsBackgroundWorkerApp\obj\Debug\net8.0-windows\SpWinFormsBackgroundWorkerApp.genruntimeconfig.cache
+C:\Users\admin\source\repos\SpWinFormsBackgroundWorkerApp\SpWinFormsBackgroundWorkerApp\obj\Debug\net8.0-windows\ref\SpWinFormsBackgroundWorkerApp.dll
